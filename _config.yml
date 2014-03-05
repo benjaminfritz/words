@@ -1,25 +1,11 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
-baseurl:          /blog
+name: "Words"
+description: "Personal blog of Benjamin Fritz"
 
-# Permalinks
-permalink:        pretty
+author: "Benjamin Fritz"
 
-# Setup
-title:            Words
-tagline:          'By Benjamin Fritz'
-description:      'Bits and Blurbs by Interaction Designer Benjamin Fritz'
-url:              http://benjaminfritz.co/blog
+url: "http://benjaminfritz.co"
+baseurl: /blog
 
-author:
-  name:           'Benjamin Fritz'
-  url:            http://benjaminfritz.co
-
-paginate:         5
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/hyde
+markdown: redcarpet
+permalink: :year/:month/:title.html
+pygments: true
