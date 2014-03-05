@@ -1,12 +1,25 @@
-name: Words
-tagline: "By Benjamin Fritz"
-description: "Bits and Blurbs by Interaction Designer Benjamin Fritz"
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+baseurl:          /blog
 
-author: "Benjamin Fritz"
+# Permalinks
+permalink:        pretty
 
-markdown: redcarpet
-permalink: pretty
-pygments: true
-baseurl: /blog/
+# Setup
+title:            Words
+tagline:          'By Benjamin Fritz'
+description:      'Bits and Blurbs by Interaction Designer Benjamin Fritz'
+url:              http://benjaminfritz.co/blog
 
-paginate: 5
+author:
+  name:           'Benjamin Fritz'
+  url:            http://benjaminfritz.co
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/poole/hyde
