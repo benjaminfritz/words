@@ -1,0 +1,9 @@
+name: Benjamin's Words
+description: "Expressed thoughts by Benjamin Fritz"
+
+author: "Benjamin Fritz"
+
+markdown: redcarpet
+permalink: :year/:month/:title.html
+pygments: true
+baseurl: /blog/
