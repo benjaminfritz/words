@@ -1,9 +1,12 @@
-name: Benjamin's Words
-description: "Expressed thoughts by Benjamin Fritz"
+name: Words
+tagline: "By Benjamin Fritz"
+description: "Bits and Blurbs by Interaction Designer Benjamin Fritz"
 
 author: "Benjamin Fritz"
 
 markdown: redcarpet
-permalink: :year/:month/:title.html
+permalink: pretty
 pygments: true
 baseurl: /blog/
+
+paginate: 5
