@@ -259,7 +259,7 @@ footer small { color: #ddd; text-transform: uppercase; font-weight: bold;}
   font-style: normal;
 }
 
-.icon-twitter, .icon-github, .icon-dribbble, .icon-instagram, {
+.icon-twitter, .icon-github, .icon-dribbble, .icon-instagram {
   font-family: 'icomoon';
   speak: none;
   font-style: normal;
