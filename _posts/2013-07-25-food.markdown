@@ -4,7 +4,7 @@ title:  "FOOD"
 date:   2013-07-25 17:05:00
 ---
 
-<iframe src="//player.vimeo.com/video/70514077?color=ff0179" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/70514077?color=000" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 I plainly **love** this talk. [Jim Ray](http://twitter.com/jimray) shows all the passion and love for food that made me want to learn how to cook to begin with. It has to do with the urge to craft something with your own hands which I miss in everyday work, though I enjoy it but because of other aspects. You get a certain kind of instant satisfaction when you see your idea and imagination manifesting in a real product.
 And I chose cooking as the skill I wanna master at the beginning of this year.
