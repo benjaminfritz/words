@@ -2,6 +2,7 @@
 layout: post
 title:  "First Time at Fusion"
 date:   2012-07-29 02:21:00
+comments: true
 ---
 
 <iframe width="100%" height="600" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2181732&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe>

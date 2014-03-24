@@ -2,6 +2,7 @@
 layout: post
 title:  "I'm alive and happy"
 date:   2013-07-17 17:05:00
+comments: true
 ---
 
 Typically for me — instead of updating the content on this site by sharing what's going on in my life I started to update its template and design **again**.

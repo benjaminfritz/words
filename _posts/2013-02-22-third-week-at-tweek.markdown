@@ -2,6 +2,7 @@
 layout: post
 title:  "Third Week at Tweek"
 date:   2013-02-22 15:16:00
+comments: true
 ---
 
 ![Tweek Logo](http://cl.ly/Uam5/tweek.png)

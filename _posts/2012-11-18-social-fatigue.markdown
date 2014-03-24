@@ -2,6 +2,7 @@
 layout: post
 title:  "Social Fatigue"
 date:   2012-11-18 14:20:00
+comments: true
 ---
 
 ![Dislike](http://cl.ly/UaEU/dislike.png)

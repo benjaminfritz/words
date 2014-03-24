@@ -2,6 +2,7 @@
 layout: post
 title:  "Jiro Dreams Of Sushi"
 date:   2012-10-14 14:20:00
+comments: true
 ---
 
 **Video offline :/**

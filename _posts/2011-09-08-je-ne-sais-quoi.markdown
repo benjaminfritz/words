@@ -2,6 +2,7 @@
 layout: post
 title:  "Je Ne Sais Quoi"
 date:   2011-09-08 02:56:51
+comments: true
 ---
 
 I can’t believe it but it’s actually already two weeks ago that Nadja and I went on vacation to visit the beautiful city of Paris, France. It was her first stay there and it’s been a year ago when workmates and me have been there to attend the [OFFF 2010 conference](http://www.offf.ws/ "OFFF Let's Feed The Future").

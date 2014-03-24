@@ -2,6 +2,7 @@
 layout: post
 title:  "On the iPhone 5"
 date:   2012-09-29 02:21:00
+comments: true
 ---
 
 This post solely serves the purpose of expressing my opinion about the iPhone 5 release, too. Because I think everybody should feel obliged to spit out something about everything.

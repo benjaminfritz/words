@@ -2,6 +2,7 @@
 layout: post
 title:  "What To Do When In Madrid"
 date:   2011-10-30 17:55:00
+comments: true
 ---
 
 My offer to help [Julia Stöpel](http://www.juliastoepel.de/) on the mobile photo sharing community [Instagram](http://www.instagram.com/) with some tips and recommendations on sights, clubs, bars and nice places to visit when spending some time in the capital of Spain made me think about writing a long overdue blog post about that matter for reference and to eventually help more people at once. I spent an entire year in Madrid during my studies which was the reason for the offer in the first place. Now that's me turning the thought into some written words about a pleasant stay in Madrid in no particular order, just like it came to my mind, so please skim through so you won't miss the gems on the bottom:
