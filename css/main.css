@@ -310,7 +310,7 @@ ul.posts li .p-wrap:hover { background: #FB2B69; padding-left: 50px; }
 ul.posts li .p-wrap:active { background: #FB2B69; }
 ul.posts li .p-wrap:hover::after { content:'\203A'; margin-left: 10px;}
 ul.posts li .p-wrap p { display: inline; margin-bottom: 0; }
-ul.posts li .date { color: #ad0900; padding-right: 30px; font-weight: 700; }
+ul.posts li .date { color: #fff; padding-right: 30px; font-weight: 700; }
 ul.posts li a { color: #fff; text-decoration: none; }
 
 
