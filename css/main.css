@@ -437,13 +437,13 @@ section#single-wrap img {
 #next {
   position: fixed;
   text-decoration: none;
-  background: #fff;
-  border: 1px solid #eee;
+  background: #000;
+  /* border: 1px solid #eee; */
   padding: 10px;
   line-height: 1;
   border-radius: 25px;
-  bottom: 40px;
-  color: #333;
+  bottom: 50%;
+  color: #fff;
 }
 
 #prev { left: 40px; }
