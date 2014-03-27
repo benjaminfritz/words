@@ -305,7 +305,7 @@ ul.posts li .p-wrap { background: #FB2B69; /* Old browsers */
                       background: -o-linear-gradient(left, #FB2B69 0%,#FF5B37 100%); /* Opera 11.10+ */
                       background: -ms-linear-gradient(left, #FB2B69 0%,#FF5B37 100%); /* IE10+ */
                       background: linear-gradient(to right, #FB2B69 0%,#FF5B37 100%); /* W3C */
-                      padding: 50px 40px; transition: all .3s ease-in; }
+                      padding: 40px 40px; transition: all .1s ease-in; }
 ul.posts li .p-wrap:hover { background: #FB2B69; padding-left: 50px; }
 ul.posts li .p-wrap:active { background: #FB2B69; }
 ul.posts li .p-wrap:hover::after { content:'\203A'; margin-left: 10px;}
