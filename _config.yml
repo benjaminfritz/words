@@ -3,8 +3,8 @@ description: "Personal blog of Benjamin Fritz"
 
 author: "Benjamin Fritz"
 
-url: "http://benjaminfritz.co"
-baseurl: /words
+url: ""
+baseurl: -
 
 markdown: redcarpet
 permalink: :year/:month/:title.html
